@@ -58,6 +58,8 @@ ros2 launch subscriber_pkg sub_launch_file.launch.py
 
 The subscriber will log the velocity commands received from the publisher.
 
+---
+
 ## 📦 Launch Files
 - Publisher Launch → publisher_pkg/launch/publisher_pkg_launch_file.launch.py
 - Subscriber Launch → subscriber_pkg/launch/sub_launch_file.launch.py
