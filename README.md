@@ -15,7 +15,7 @@ It uses **Python** and the ROS 2 client library `rclpy`.
 
 ## 🛠 Prerequisites
 
-- **ROS 2** installed (tested with Humble/Foxy)
+- **ROS 2** installed 
 - **Python 3**
 - `turtlesim` package
   
